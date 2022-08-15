@@ -16,7 +16,7 @@ int main(){
 	
 	return 0;
 }
-
+ 
 //Fecha de publicacion: 08/13/2022 
 //Hora: 14:50:04
 //V. 1.2.4
